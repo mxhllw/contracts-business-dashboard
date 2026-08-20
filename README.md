@@ -151,7 +151,3 @@ The model contains **40+ measures** in total, organized into a dedicated `Msrs` 
 1. Clone the repo.
 2. Open `Dashboard.pbix` in [Power BI Desktop](https://www.microsoft.com/power-bi/downloads).
 3. If prompted, update the data source path to point to the local `data/` folder.
-
-## License
-
-Add a license (e.g., MIT) if you want others to reuse this freely.

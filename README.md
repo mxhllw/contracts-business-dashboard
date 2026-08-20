@@ -4,7 +4,8 @@ An interactive Power BI dashboard for analyzing a B2B contract business: active 
 
 > **Note on data:** the dataset used in this dashboard is synthetic. It was generated with AI to mirror the structure and scale of a real contract-management dataset I worked with during an internship, without exposing any confidential company data. All numbers are fictional.
 
-(Pictures are following)
+<img width="1374" height="553" alt="image" src="https://github.com/user-attachments/assets/f71fa4b6-edba-42e4-ac0a-1afdae8807e5" />
+
 
 ## Overview
 
